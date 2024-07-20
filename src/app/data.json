@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "id": "5a031193-7e8c-42be-93f5-5b70579b09d5",
+      "title": "晚餐",
+      "value": 120,
+      "dateTime": "2024-07-11T12:20:00.000Z",
+      "category": "食"
+    },
+    {
+      "id": "6a54321d-1e07-466e-9f62-756e57e7b090",
+      "title": "火車",
+      "value": 22,
+      "dateTime": "2024-07-20T02:21:00.000Z",
+      "category": "行"
+    },
+    {
+      "id": "d11ba145-a82b-4b9a-a297-26c910cee6bd",
+      "title": "鞋子",
+      "value": 1999,
+      "dateTime": "2024-07-17T12:21:00.000Z",
+      "category": "衣"
+    }
+  ]
+}
